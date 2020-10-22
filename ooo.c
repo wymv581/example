@@ -1,4 +1,5 @@
 #include <stdio>
+#include <string.h>
 int main()
 {
 	printf("nihao");
